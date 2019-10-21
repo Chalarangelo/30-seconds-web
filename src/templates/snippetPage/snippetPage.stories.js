@@ -1,17 +1,22 @@
 import React from 'react';
-import PreviewCard from 'molecules/previewCard';
+import { Provider } from 'react-redux';
+import { createStore as reduxCreateStore } from 'redux';
+import rootReducer from 'state';
+import SnippetPage from 'templates/snippetPage';
 import { object } from '@storybook/addon-knobs';
 import mdx from './docs.mdx';
 
+const createStore = () => reduxCreateStore(rootReducer);
+
 export default {
-  title: 'Molecules|PreviewCard',
-  component: PreviewCard,
+  title: 'Templates|SnippetPage',
+  component: SnippetPage,
   parameters: {
     docs: {
       page: mdx,
     },
     jest: [
-      'previewCard',
+      'snippetPage',
     ],
   },
 };
@@ -25,14 +30,19 @@ export const component = () => {
   };
   const snippet = object('snippet', {
     title: 'compose',
-    language: { short: 'js', long: 'JavaScript' },
+    description: 'Performs right-to-left function composition',
+    language: {short: 'js', long: 'JavaScript'},
     tags: ['function', 'recursion'],
     expertise: 'intermediate',
     code: 'const compose = (...fns) => fns.reduce((f, g) => (...args) => f(g(...args)));',
-    url: 'snippets/compose',
   });
 
   return (
-    <PreviewCard snippet={ { ...snippet, ...snippetHTMLs } } />
+    <Provider store={ createStore() }>
+      <SnippetPage
+        snippet={ { ...snippet, ...snippetHTMLs } }
+        logoSrc='/30s-icon.png'
+      />
+    </Provider>
   );
 };
