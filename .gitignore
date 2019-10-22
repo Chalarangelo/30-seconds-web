@@ -101,3 +101,6 @@ public
 
 # Mac files
 .DS_Store
+
+# Overmind files
+.overmind.sock
