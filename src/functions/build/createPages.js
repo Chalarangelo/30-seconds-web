@@ -3,25 +3,14 @@
  */
 const createSnippetPages = (snippets, snippetPage, createPage, commonContext) => {
   snippets.forEach(snippet => {
-    if (!snippet.node.archived) {
-      createPage({
-        path: `/snippet${snippet.node.slug}`,
-        component: snippetPage,
-        context: {
-          snippet: snippet.node,
-          ...commonContext,
-        },
-      });
-    } else {
-      createPage({
-        path: `/archive${snippet.node.slug}`,
-        component: snippetPage,
-        context: {
-          snippet: snippet.node,
-          ...commonContext,
-        },
-      });
-    }
+    createPage({
+      path: `${snippet.node.slug}`,
+      component: snippetPage,
+      context: {
+        snippet: snippet.node,
+        ...commonContext,
+      },
+    });
   });
 };
 
@@ -38,14 +27,27 @@ const createPages = (query, templates) => ({ graphql, actions }) => {
       if (result.errors) throw result.errors;
 
       const commonContext = {
-        logoSrc: result.data.file.childImageSharp.original.src,
+        logoSrc: result.data.logoSrc.childImageSharp.original.src,
       };
 
       createSnippetPages(
-        result.data.allSnippet.edges,
+        result.data.simpleSnippets.edges,
         templates['SnippetPage'],
         createPage,
-        commonContext
+        {
+          ...commonContext,
+          cardTemplate: 'standard',
+        }
+      );
+
+      createSnippetPages(
+        result.data.cssSnippets.edges,
+        templates['SnippetPage'],
+        createPage,
+        {
+          ...commonContext,
+          cardTemplate: 'css',
+        }
       );
 
       return null;

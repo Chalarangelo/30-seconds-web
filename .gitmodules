@@ -1,0 +1,15 @@
+[submodule "content/sources/30python"]
+	path = content/sources/30python
+	url = https://github.com/30-seconds/30-seconds-of-python
+[submodule "content/sources/30php"]
+	path = content/sources/30php
+	url = https://github.com/30-seconds/30-seconds-of-php
+[submodule "content/sources/30code"]
+	path = content/sources/30code
+	url = https://github.com/30-seconds/30-seconds-of-code
+[submodule "content/sources/30css"]
+	path = content/sources/30css
+	url = https://github.com/30-seconds/30-seconds-of-css
+[submodule "content/sources/30react"]
+	path = content/sources/30react
+	url = https://github.com/30-seconds/30-seconds-of-react
