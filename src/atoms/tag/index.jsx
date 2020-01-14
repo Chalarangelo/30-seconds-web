@@ -4,11 +4,15 @@ import { capitalize } from 'functions/utils';
 
 const Tag = ({
   name,
-}) => (
-  <span className="tag">
-    { capitalize(name) }
-  </span>
-);
+}) =>
+  name ?
+    (
+      <span className="tag">
+        { capitalize(name) }
+      </span>
+    )
+    : null
+;
 
 Tag.propTypes = {
   /** Tag string literal */
