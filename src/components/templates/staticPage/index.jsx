@@ -34,7 +34,7 @@ const StaticPage = ({
   },
 }) => (
   <>
-    <Meta title={title} description={pageDescription} />
+    {/* <Meta title={title} description={pageDescription} /> */}
     <Shell>
       <PageTitle className='static-tite'>{title}</PageTitle>
       <p className='page-sub-title'>{subtitle}</p>

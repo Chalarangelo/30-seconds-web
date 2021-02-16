@@ -8,7 +8,7 @@ import literals from 'lang/en/client/developer';
 // Do not change this to `import`, it's not going to work, no clue why
 // Also do not move this to the general styles, as we want to keep it separate
 // and not serve it in production.
-require('./index.scss');
+// require('./index.scss');
 
 const propTypes = {
   isDarkMode: PropTypes.bool,

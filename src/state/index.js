@@ -19,6 +19,12 @@ const searchPersistConfig = createPersistConfig(searchConfig, storage);
 const navigationPersistConfig = createPersistConfig(navigationConfig, storage);
 
 export const rootReducer = combineReducers({
+  shell, // : persistReducer(shellPersistConfig, shell),
+  search, // : persistReducer(searchPersistConfig, search),
+  navigation, // : persistReducer(navigationPersistConfig, navigation),
+});
+
+export const persistedRootReducer = combineReducers({
   shell: persistReducer(shellPersistConfig, shell),
   search: persistReducer(searchPersistConfig, search),
   navigation: persistReducer(navigationPersistConfig, navigation),
@@ -33,7 +39,12 @@ const reduxDevToolsEnhancer =
   window.__REDUX_DEVTOOLS_EXTENSION__();
 
 export default () => {
-  let store = createStore(persistedReducer, reduxDevToolsEnhancer);
-  let persistor = persistStore(store);
-  return { store, persistor };
+  let store = createStore(rootReducer, reduxDevToolsEnhancer);
+  return { store };
 };
+
+// export default () => {
+//   let store = createStore(persistedReducer, reduxDevToolsEnhancer);
+//   let persistor = persistStore(store);
+//   return { store, persistor };
+// };

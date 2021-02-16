@@ -53,4 +53,6 @@ const CookieConsentPopup = ({ dispatch, ...rest }) => (
 
 CookieConsentPopup.propTypes = propTypes;
 
-export default connect(() => ({}), null)(CookieConsentPopup);
+export default () => null;
+
+// export default connect(() => ({}), null)(CookieConsentPopup);

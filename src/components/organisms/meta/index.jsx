@@ -6,7 +6,7 @@ import settings from 'settings/global';
 import literals from 'lang/en/client/common';
 import { generateStructuredData } from 'utils';
 
-require('styles/index.scss'); // Do not change this to `import`, it's not going to work, no clue why
+// require('styles/index.scss'); // Do not change this to `import`, it's not going to work, no clue why
 
 const propTypes = {
   title: PropTypes.string,
