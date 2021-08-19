@@ -1,11 +1,12 @@
 {
   "rootDir": "../../",
   "transform": {
+    "^.+\\.(ts|tsx)$": "ts-jest",
     "^.+\\.(js|jsx)?$": "babel-jest",
     "^.+\\.(css|less|scss)$": "jest-transform-stub"
   },
-  "testEnvironment": "jest-environment-jsdom-fourteen",
-  "moduleFileExtensions": ["js", "jsx", "json"],
+  "testEnvironment": "jest-environment-jsdom",
+  "moduleFileExtensions": ["ts", "js", "jsx", "json"],
   "moduleDirectories": [
     "node_modules",
     "src"
