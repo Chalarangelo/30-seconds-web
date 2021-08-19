@@ -8,9 +8,10 @@
   "extends": [
     "eslint:recommended",
     "plugin:react/recommended",
+    "plugin:@typescript-eslint/recommended",
     "prettier"
   ],
-  "parser": "@babel/eslint-parser",
+  "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "ecmaVersion": 2018,
     "sourceType": "module",
@@ -20,6 +21,7 @@
     }
   },
   "plugins": [
+    "@typescript-eslint",
     "react",
     "react-hooks"
   ],
@@ -200,6 +202,26 @@
     "react/prop-types": "warn",
     "react/no-unused-prop-types": "error",
     "react/jsx-uses-react": "off",
-    "react/react-in-jsx-scope": "off"
-  }
+    "react/react-in-jsx-scope": "off",
+    "@typescript-eslint/no-explicit-any": [
+      "warn",
+      {
+        "ignoreRestArgs": true
+      }
+    ],
+    "@typescript-eslint/explicit-module-boundary-types": "off"
+  },
+  "overrides": [
+    {
+      "files": [
+        "*.ts",
+        "*.tsx"
+      ],
+      "rules": {
+        "@typescript-eslint/explicit-module-boundary-types": [
+          "error"
+        ]
+      }
+    }
+  ]
 }
