@@ -108,6 +108,7 @@ out/
 .overmind.sock
 
 # Generated files
+.compiled
 .build
 .assets
 .content
