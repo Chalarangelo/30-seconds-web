@@ -7,6 +7,7 @@
 export const throttle = (fn, wait) => {
   let inThrottle, lastFn, lastTime;
   return function () {
+    // eslint-disable-next-line @typescript-eslint/no-this-alias
     const context = this,
       args = arguments;
     if (!inThrottle) {

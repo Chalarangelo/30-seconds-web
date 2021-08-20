@@ -2,7 +2,7 @@ import { Env } from 'blocks/utilities/env';
 import { Logger } from 'blocks/utilities/logger';
 import { Content } from 'blocks/utilities/content';
 
-export const build = async () => {
+export const build = async () : Promise<void> => {
   Logger.log('Creation process is starting up...', 'info');
   Logger.breakLine();
 

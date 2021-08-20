@@ -26,7 +26,7 @@ describe('optimizeNodes', () => {
     const data =
       '<span class="token punctuation">foo</span><span class="token punctuation">bar</span>';
     const regexp = /<span class="token punctuation">([^\0<]*?)<\/span>([\n\r\s]*)<span class="token punctuation">([^\0]*?)<\/span>/gm;
-    const replacer = (match, p1, p2, p3) =>
+    const replacer = (_match, p1, p2, p3) =>
       `<span class="token punctuation">${p1}${p2}${p3}</span>`;
     const result = '<span class="token punctuation">foobar</span>';
     expect(optimizeNodes(data, regexp, replacer)).toBe(result);

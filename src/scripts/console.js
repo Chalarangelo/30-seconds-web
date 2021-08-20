@@ -12,6 +12,7 @@ let replServer = repl.start({
 Env.init('DEVELOPMENT').then(data => {
   replServer.context.global.settings = data;
 
+  // eslint-disable-next-line @typescript-eslint/no-empty-function
   replServer.setupHistory('console.log', () => {});
 
   // Dynamically import modules from the blocks directory

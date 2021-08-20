@@ -1,19 +1,22 @@
+import { InferProps } from 'prop-types';
 import PropTypes from 'typedefs/proptypes';
 import Link from 'next/link';
 
 const breadcrumbPropTypes = {
   breadcrumbs: PropTypes.arrayOf(
     PropTypes.shape({
-      url: PropTypes.string,
-      name: PropTypes.string,
-    })
-  ),
+      url: PropTypes.string.isRequired,
+      name: PropTypes.string.isRequired,
+    }).isRequired
+  ).isRequired,
 };
+
+type BreadcrumbProps = InferProps<typeof breadcrumbPropTypes>;
 
 /**
  * Breadcrumbs component for linking to the hierarchy of pages.
  */
-const Breadcrumbs = ({ breadcrumbs }) => (
+const Breadcrumbs: React.FC<BreadcrumbProps> = ({ breadcrumbs }) => (
   <nav aria-label='breadcrumbs' className='breadcrumbs mt-4 mx-4 mb-0'>
     <ol className='flex m-0 p-0 f-ellipsis'>
       {breadcrumbs.map(({ name, url }, i) => {
@@ -28,7 +31,7 @@ const Breadcrumbs = ({ breadcrumbs }) => (
             <Link href={url}>
               <a
                 className='inherit'
-                aria-current={isCurrentPage ? 'page' : null}
+                aria-current={isCurrentPage ? 'page' : undefined}
               >
                 {name}
               </a>
