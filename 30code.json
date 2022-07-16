@@ -1,0 +1,574 @@
+{
+  "!": {
+    "name": "Logical NOT operator",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_NOT"
+  },
+  "..." : {
+    "name": "Spread operator",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax"
+  },
+  "'ontouchstart'": {
+    "name": "Touchstart event",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document/touchstart_event"
+  },
+  "'undefined'": {
+    "name": "Undefined",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined"
+  },
+  "%": {
+    "name": "Modulo operator",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder"
+  },
+  "^": {
+    "name": "Bitwise XOR",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_XOR"
+  },
+  "<" : {
+    "name": "Less than operator",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Less_than"
+  },
+  "<<": {
+    "name": "Left shift",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Left_shift"
+  },
+  ">": {
+    "name": "Greater than operator",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Greater_than"
+  },
+  "Array.from()": {
+    "name": "Array.from()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from"
+  },
+  "Array.isArray()": {
+    "name": "Array.isArray()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray"
+  },
+  "Array.prototype.concat()": {
+    "name": "Array.prototype.concat()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat"
+  },
+  "Array.prototype.every()": {
+    "name": "Array.prototype.every()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every"
+  },
+  "Array.prototype.filter()": {
+    "name": "Array.prototype.filter()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter"
+  },
+  "Array.prototype.find()": {
+    "name": "Array.prototype.find()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find"
+  },
+  "Array.prototype.findIndex()": {
+    "name": "Array.prototype.findIndex()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex"
+  },
+  "Array.prototype.forEach()": {
+    "name": "Array.prototype.forEach()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach"
+  },
+  "Array.prototype.includes()":   {
+    "name": "Array.prototype.includes()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes"
+  },
+  "Array.prototype.indexOf()": {
+    "name": "Array.prototype.indexOf()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf"
+  },
+  "Array.prototype.isArray()": {
+    "name": "Array.prototype.isArray()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray"
+  },
+  "Array.prototype.map()": {
+    "name": "Array.prototype.map()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map"
+  },
+  "Array.prototype.reduce()": {
+    "name": "Array.prototype.reduce()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce"
+  },
+  "Array.prototype.reduceRight()": {
+    "name": "Array.prototype.reduceRight()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduceRight"
+  },
+  "Array.prototype.reverse()": {
+    "name": "Array.prototype.reverse()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse"
+  },
+  "Array.prototype.slice()": {
+    "name": "Array.prototype.slice()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice"
+  },
+  "Array.prototype.sort()": {
+    "name": "Array.prototype.sort()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort"
+  },
+  "Array.prototype.splice()": {
+    "name": "Array.prototype.splice()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice"
+  },
+  "async": {
+    "name": "Async function",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function"
+  },
+  "Blob": {
+    "name": "Blob",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Blob"
+  },
+  "Buffer": {
+    "name": "Buffer",
+    "url": "https://nodejs.org/api/buffer.html"
+  },
+  "console.debug()": {
+    "name": "console.debug()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Console/debug"
+  },
+  "console.log()": {
+    "name": "console.log()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Console/log"
+  },
+  "console.time()": {
+    "name": "console.time()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/console/time"
+  },
+  "crypto.createHash()": {
+    "name": "crypto.createHash()",
+    "url": "https://nodejs.org/api/crypto.html#cryptocreatehashalgorithm-options"
+  },
+  "Crypto.getRandomValues()": {
+    "name": "Crypto.getRandomValues()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Crypto/getRandomValues"
+  },
+  "crypto.randomBytes()": {
+    "name": "crypto.randomBytes()",
+    "url": "https://nodejs.org/api/crypto.html#cryptorandombytessize-callback"
+  },
+  "CustomEvent": {
+    "name": "CustomEvent",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent"
+  },
+  "Date": {
+    "name": "Date",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date"
+  },
+  "Date.prototype.getDay()": {
+    "name": "Date.prototype.getDay()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getDay"
+  },
+  "Date.prototype.getFullYear()": {
+    "name": "Date.prototype.getFullYear()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getFullYear"
+  },
+  "Date.prototype.getMonth()": {
+    "name": "Date.prototype.getMonth()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getMonth"
+  },
+  "Date.prototype.getTimezoneOffset()": {
+    "name": "Date.prototype.getTimezoneOffset()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getTimezoneOffset"
+  },
+  "Date.prototype.toISOString()": {
+    "name": "Date.prototype.toISOString()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toISOString"
+  },
+  "delete": {
+    "name": "delete",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete"
+  },
+  "DELETE": {
+    "name": "DELETE",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE"
+  },
+  "Document.activeElement": {
+    "name": "Document.activeElement",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document/activeElement"
+  },
+  "Document.createElement()": {
+    "name": "Document.createElement()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement"
+  },
+  "Document.documentElement": {
+    "name": "Document.documentElement",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document/documentElement"
+  },
+  "Document.hidden": {
+    "name": "Document.hidden",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document/hidden"
+  },
+  "Document.querySelector()": {
+    "name": "Document.querySelector()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector"
+  },
+  "Element.classList": {
+    "name": "Element.classList",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element/classList"
+  },
+  "Element.getBoundingClientRect()": {
+    "name": "Element.getBoundingClientRect()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect"
+  },
+  "Element.getElementsByTagName()": {
+    "name": "Element.getElementsByTagName()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element/getElementsByTagName"
+  },
+  "Element.insertAdjacentHTML()": {
+    "name": "Element.insertAdjacentHTML()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML"
+  },
+  "Element.parentNode": {
+    "name": "Node.parentNode",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Node/parentNode"
+  },
+  "Element.scrollIntoView()": {
+    "name": "Element.scrollIntoView()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView"
+  },
+  "ElementCSSInlineStyle.style": {
+    "name": "HTMLElement.style",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/ElementCSSInlineStyle/style"
+  },
+  "encodeURIComponent()": {
+    "name": "encodeURIComponent()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent"
+  },
+  "EventTarget.addEventListener()": {
+    "name": "EventTarget.addEventListener()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener"
+  },
+  "EventTarget.removeEventListener()": {
+    "name": "EventTarget.removeEventListener()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener"
+  },
+  "false": {
+    "name": "false",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/false"
+  },
+  "for...in": {
+    "name": "for...in",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in"
+  },
+  "for...of": {
+    "name": "for...of",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of"
+  },
+  "FormData": {
+    "name": "FormData",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/FormData"
+  },
+  "fs.existsSync()": {
+    "name": "fs.existsSync()",
+    "url": "https://nodejs.org/api/fs.html#fsexistssyncpath"
+  },
+  "fs.readFileSync()": {
+    "name": "fs.readFileSync()",
+    "url": "https://nodejs.org/api/fs.html#fsreadfilesyncpath-options"
+  },
+  "fs.writeFileSync()": {
+    "name": "fs.writeFileSync()",
+    "url": "https://nodejs.org/api/fs.html#fswritefilesyncfile-data-options"
+  },
+  "function": {
+    "name": "function",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function"
+  },
+  "GET": {
+    "name": "GET",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET"
+  },
+  "HTMLElement.offsetWidth": {
+    "name": "HTMLElement.offsetWidth",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetWidth"
+  },
+  "if": {
+    "name": "if",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else"
+  },
+  "in": {
+    "name": "in",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in"
+  },
+  "Intl.NumberFormat": {
+    "name": "Intl.NumberFormat",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat"
+  },
+  "JSON.parse()": {
+    "name": "JSON.parse()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse"
+  },
+  "length": {
+    "name": "length",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length"
+  },
+  "localStorage": {
+    "name": "Window.localStorage",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage"
+  },
+  "location.protocol": {
+    "name": "location.protocol",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Location/protocol"
+  },
+  "Map": {
+    "name": "Map",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map"
+  },
+  "Math.abs()": {
+    "name": "Math.abs()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/abs"
+  },
+  "Math.floor()": {
+    "name": "Math.floor()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor"
+  },
+  "Math.hypot()": {
+    "name": "Math.hypot()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/hypot"
+  },
+  "Math.log()": {
+    "name": "Math.log()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/log"
+  },
+  "Math.max()": {
+    "name": "Math.max()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max"
+  },
+  "Math.min()": {
+    "name": "Math.min()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min"
+  },
+  "Math.PI": {
+    "name": "Math.PI",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/PI"
+  },
+  "Math.pow()": {
+    "name": "Math.pow()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow"
+  },
+  "Math.random()": {
+    "name": "Math.random()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random"
+  },
+  "Math.round()": {
+    "name": "Math.round()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round"
+  },
+  "Math.sign()": {
+    "name": "Math.sign()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sign"
+  },
+  "MutationObserver": {
+    "name": "MutationObserver",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver"
+  },
+  "Navigator.language": {
+    "name": "Navigator.language",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Navigator/language"
+  },
+  "Navigator.userAgent": {
+    "name": "Navigator.userAgent",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Navigator/userAgent"
+  },
+  "Node.parentNode": {
+    "name": "Node.parentNode",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Node/parentNode"
+  },
+  "NodeList": {
+    "name": "NodeList",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/NodeList"
+  },
+  "null": {
+    "name": "null",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null"
+  },
+  "Number.prototype.toFixed()": {
+    "name": "Number.prototype.toFixed()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed"
+  },
+  "Number.prototype.toLocaleString()": {
+    "name": "Number.prototype.toLocaleString()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toLocaleString"
+  },
+  "Number.prototype.toPrecision()": {
+    "name": "Number.prototype.toPrecision()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toPrecision"
+  },
+  "Object": {
+    "name": "Object",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object"
+  },
+  "Object.assign()": {
+    "name": "Object.assign()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign"
+  },
+  "Object.entries()": {
+    "name": "Object.entries()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries"
+  },
+  "Object.isFrozen()": {
+    "name": "Object.isFrozen()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/isFrozen"
+  },
+  "Object.keys()": {
+    "name": "Object.keys()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys"
+  },
+  "Object.prototype.toString()": {
+    "name": "Object.prototype.toString()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/toString"
+  },
+  "Object.values()": {
+    "name": "Object.values()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values"
+  },
+  "parseFloat()": {
+    "name": "parseFloat()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseFloat"
+  },
+  "performance.now()": {
+    "name": "performance.now()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Performance/now"
+  },
+  "POST": {
+    "name": "POST",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST"
+  },
+  "process": {
+    "name": "process",
+    "url": "https://nodejs.org/api/process.html"
+  },
+  "process.argv": {
+    "name": "process.argv",
+    "url": "https://nodejs.org/api/process.html#process_process_argv"
+  },
+  "Promise": {
+    "name": "Promise",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
+  },
+  "PUT": {
+    "name": "PUT",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT"
+  },
+  "RegExp": {
+    "name": "RegExp",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp"
+  },
+  "RegExp.prototype.test()": {
+    "name": "RegExp.prototype.test()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test"
+  },
+  "sessionStorage": {
+    "name": "Window.sessionStorage",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage"
+  },
+  "Set": {
+    "name": "Set",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set"
+  },
+  "setTimeout()": {
+    "name": "setTimeout()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/setTimeout"
+  },
+  "String.prototype.join()": {
+    "name": "String.prototype.join()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/join"
+  },
+  "String.prototype.length": {
+    "name": "String.prototype.length",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length"
+  },
+  "String.prototype.match()": {
+    "name": "String.prototype.match()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match"
+  },
+  "String.prototype.normalize()": {
+    "name": "String.prototype.normalize()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/normalize"
+  },
+  "String.prototype.padStart()": {
+    "name": "String.prototype.padStart()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart"
+  },
+  "String.prototype.replace()": {
+    "name": "String.prototype.replace()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace"
+  },
+  "String.prototype.split()": {
+    "name": "String.prototype.split()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split"
+  },
+  "String.prototype.toLowerCase()": {
+    "name": "String.prototype.toLowerCase()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase"
+  },
+  "String.prototype.toUpperCase()" : {
+    "name": "String.prototype.toUpperCase()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase"
+  },
+  "Symbol": {
+    "name": "Symbol",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol"
+  },
+  "Symbol.iterator": {
+    "name": "Symbol.iterator",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/iterator"
+  },
+  "TextEncoder": {
+    "name": "TextEncoder",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/TextEncoder"
+  },
+  "true": {
+    "name": "true",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/true"
+  },
+  "try...catch": {
+    "name": "try...catch",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch"
+  },
+  "typeof": {
+    "name": "typeof",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof"
+  },
+  "undefined": {
+    "name": "undefined",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined"
+  },
+  "URL.protocol": {
+    "name": "URL.protocol",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/URL/protocol"
+  },
+  "WeakSet": {
+    "name": "WeakSet",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet"
+  },
+  "while": {
+    "name": "while",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while"
+  },
+  "Window.getComputedStyle()": {
+    "name": "Window.getComputedStyle()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/getComputedStyle"
+  },
+  "Window.getSelection()": {
+    "name": "Window.getSelection()",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/getSelection"
+  },
+  "Window.location.href": {
+    "name": "Window.location.href",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/location"
+  },
+  "Window.location.protocol": {
+    "name": "Window.location.protocol",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/location"
+  },
+  "Window.pageXOffset": {
+    "name": "Window.pageXOffset",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/pageXOffset"
+  },
+  "Window.scrollY": {
+    "name": "Window.scrollY",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollY"
+  },
+  "Worker": {
+    "name": "Worker",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Worker"
+  }
+}
