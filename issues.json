@@ -1,0 +1,2442 @@
+[
+  {
+    "snippet": "git/s/autocorrect",
+    "issues": [
+      "autocorrect"
+    ]
+  },
+  {
+    "snippet": "git/s/change-remote-url",
+    "issues": [
+      "set-url"
+    ]
+  },
+  {
+    "snippet": "git/s/create-fixup-commit",
+    "issues": [
+      "autosquashed"
+    ]
+  },
+  {
+    "snippet": "git/s/delete-merged-branches",
+    "issues": [
+      "xargs"
+    ]
+  },
+  {
+    "snippet": "git/s/delete-submodule",
+    "issues": [
+      "deinit",
+      "unregister"
+    ]
+  },
+  {
+    "snippet": "git/s/find-lost-files",
+    "issues": [
+      "fsck"
+    ]
+  },
+  {
+    "snippet": "git/s/force-update-remote-branch",
+    "issues": [
+      "adter"
+    ]
+  },
+  {
+    "snippet": "git/s/line-endings",
+    "issues": [
+      "crlf"
+    ]
+  },
+  {
+    "snippet": "git/s/pick-commits",
+    "issues": [
+      "commit-1",
+      "commit-2"
+    ]
+  },
+  {
+    "snippet": "git/s/pull-all-submodules",
+    "issues": [
+      "remotes"
+    ]
+  },
+  {
+    "snippet": "git/s/rebase-onto-branch",
+    "issues": [
+      "Rebases",
+      "rebased"
+    ]
+  },
+  {
+    "snippet": "git/s/view-changes-summary",
+    "issues": [
+      "shortlog"
+    ]
+  },
+  {
+    "snippet": "git/s/view-commit-graph",
+    "issues": [
+      "oneline"
+    ]
+  },
+  {
+    "snippet": "css/s/bouncing-loader",
+    "issues": [
+      "translate3d"
+    ]
+  },
+  {
+    "snippet": "css/s/clearfix",
+    "issues": [
+      "clearfixed"
+    ]
+  },
+  {
+    "snippet": "css/s/custom-checkbox",
+    "issues": [
+      "checkbox-container",
+      "checkboxes",
+      "stroke-dashoffset"
+    ]
+  },
+  {
+    "snippet": "css/s/custom-scrollbar",
+    "issues": [
+      "draggable",
+      "WebKit-based"
+    ]
+  },
+  {
+    "snippet": "css/s/disable-selection",
+    "issues": [
+      "unselectable"
+    ]
+  },
+  {
+    "snippet": "css/s/gradient-text",
+    "issues": [
+      "webkit-text-fill-color",
+      "webkit-background-clip"
+    ]
+  },
+  {
+    "snippet": "css/s/height-transition",
+    "issues": [
+      "laggy",
+      "transitioning"
+    ]
+  },
+  {
+    "snippet": "css/s/hide-scrollbars",
+    "issues": [
+      "Firefox",
+      "WebKit"
+    ]
+  },
+  {
+    "snippet": "css/s/horizontal-gallery",
+    "issues": [
+      "highlightThumbnail"
+    ]
+  },
+  {
+    "snippet": "css/s/hover-underline-animation",
+    "issues": [
+      "scaleX"
+    ]
+  },
+  {
+    "snippet": "css/s/image-overlay-hover",
+    "issues": [
+      "figcaption"
+    ]
+  },
+  {
+    "snippet": "css/s/isometric-card",
+    "issues": [
+      "rotateX"
+    ]
+  },
+  {
+    "snippet": "css/s/offscreen",
+    "issues": [
+      "positionally"
+    ]
+  },
+  {
+    "snippet": "css/s/popout-menu",
+    "issues": [
+      "popout"
+    ]
+  },
+  {
+    "snippet": "css/s/pretty-text-underline",
+    "issues": [
+      "currentColor"
+    ]
+  },
+  {
+    "snippet": "css/s/reset-all-styles",
+    "issues": [
+      "unicode-bidi"
+    ]
+  },
+  {
+    "snippet": "css/s/responsive-layout-sidebar",
+    "issues": [
+      "minmax"
+    ]
+  },
+  {
+    "snippet": "css/s/rotating-card",
+    "issues": [
+      "backface-visibility",
+      "0deg",
+      "180deg"
+    ]
+  },
+  {
+    "snippet": "css/s/shape-separator",
+    "issues": [
+      "24x12"
+    ]
+  },
+  {
+    "snippet": "css/s/system-font-stack",
+    "issues": [
+      "macOS",
+      "BlinkMacSystemFont",
+      "Segoe",
+      "Ubuntu",
+      "Cantarell",
+      "Helvetica",
+      "Neue",
+      "Arial"
+    ]
+  },
+  {
+    "snippet": "css/s/tile-layout-using-inline-block",
+    "issues": [
+      "3-tile"
+    ]
+  },
+  {
+    "snippet": "css/s/truncate-text-multiline",
+    "issues": [
+      "numberOfLines"
+    ]
+  },
+  {
+    "snippet": "css/s/vertical-gallery",
+    "issues": [
+      "scrollThumb"
+    ]
+  },
+  {
+    "snippet": "articles/s/10-vs-code-extensions-for-js-developers",
+    "issues": [
+      "visualstudio",
+      "itemName",
+      "dbaeumer",
+      "vscode-eslint",
+      "linting",
+      "eamodio",
+      "heatmaps",
+      "msjsdiag",
+      "Colorizer",
+      "CoenraadS",
+      "bracket-pair-colorizer-2",
+      "alefragnani",
+      "TODO",
+      "wayou",
+      "vscode-todo-highlight",
+      "ritwickdey",
+      "LiveServer",
+      "humao",
+      "zhuangtongfa",
+      "Fira",
+      "tonsky",
+      "FiraCode"
+    ]
+  },
+  {
+    "snippet": "articles/s/25-css-gradients",
+    "issues": [
+      "blog-code",
+      "1fa2ff",
+      "12d8fa",
+      "a6ffcb",
+      "f12711",
+      "f5af19",
+      "vanusa",
+      "da4453",
+      "89216b",
+      "fc5c7d",
+      "6a82fb",
+      "c94b4b",
+      "4b134f",
+      "e1eec3",
+      "f05053",
+      "3a1c71",
+      "d76d77",
+      "ffaf7b",
+      "c33764",
+      "1d2671",
+      "ibiza-sunset",
+      "ee0979",
+      "ff6a00",
+      "fresh-turboscent",
+      "f1f2b5",
+      "cheer-up-emo-kid",
+      "ff6b6b",
+      "starfall",
+      "f0c27b",
+      "4b1248",
+      "f2709c",
+      "ff9472",
+      "5d4157",
+      "a8caba",
+      "d53369",
+      "cbad6d",
+      "c04848",
+      "5f2c82",
+      "49a09d",
+      "dd5e89",
+      "f7bb97",
+      "1d2b64",
+      "f8cdda",
+      "e5e5be",
+      "ff6e7f",
+      "bfe9ff",
+      "jshine",
+      "12c2e9",
+      "c471ed",
+      "f64f59",
+      "03001e",
+      "7303c0",
+      "ec38bc",
+      "fdeff9"
+    ]
+  },
+  {
+    "snippet": "articles/s/4-javascript-array-methods",
+    "issues": [
+      "isOdd"
+    ]
+  },
+  {
+    "snippet": "articles/s/4-seo-tips-for-developers",
+    "issues": [
+      "awesome-list-of-seo-tips",
+      "sitemap"
+    ]
+  },
+  {
+    "snippet": "articles/s/6-javascript-regexp-tricks",
+    "issues": [
+      "Emoji",
+      "Math_Symbols",
+      "γεια"
+    ]
+  },
+  {
+    "snippet": "articles/s/6-python-f-strings-tips",
+    "issues": [
+      "str_val",
+      "num_val",
+      "price_val",
+      "date_val",
+      "utcnow",
+      "2021-07-09"
+    ]
+  },
+  {
+    "snippet": "articles/s/7-chrome-extensions-for-web-developers",
+    "issues": [
+      "webstore",
+      "css-peeper",
+      "mbnbehikldjhnfehhnaidhjhoofhpehk",
+      "fmkadmapgofadopljbjfkapdkoienihi",
+      "LastPass",
+      "lastpass-free-password-ma",
+      "hdokiejnpimakedhajhdlcegeplioahd",
+      "uBlock",
+      "ublock-origin",
+      "cjpalhdlnbpafiamejdnhcphjbkeiagm",
+      "cdockenadnadldjbbgcallicgledbeoc",
+      "json-viewer",
+      "gbmdgpbipfallnflgajpaliibnhdgobh",
+      "fngmhnnpilhplaeedifhccceomclgfbg"
+    ]
+  },
+  {
+    "snippet": "articles/s/8-tips-for-accessible-websites",
+    "issues": [
+      "screenreaders"
+    ]
+  },
+  {
+    "snippet": "articles/s/8-tips-for-remote-work",
+    "issues": [
+      "Skype",
+      "Figma"
+    ]
+  },
+  {
+    "snippet": "articles/s/async-javascript-cheatsheet",
+    "issues": [
+      "performOperation",
+      "onFulfilled",
+      "onRejected",
+      "onFinally",
+      "promisedOperation",
+      "someKnownErr",
+      "defaultVal",
+      "promisedValue"
+    ]
+  },
+  {
+    "snippet": "articles/s/benefits-of-writing",
+    "issues": [
+      "excerise"
+    ]
+  },
+  {
+    "snippet": "articles/s/breaking-react",
+    "issues": [
+      "codepen",
+      "chalarangelo",
+      "jOEojVJ",
+      "destroyElement",
+      "elementShown",
+      "updateElement",
+      "DOMException"
+    ]
+  },
+  {
+    "snippet": "articles/s/code-anatomy-chaining-reduce-for-loop",
+    "issues": [
+      "filePaths",
+      "cool_app"
+    ]
+  },
+  {
+    "snippet": "articles/s/code-anatomy-optimizing-recursion",
+    "issues": [
+      "Fibonacci_number",
+      "fibonacciNumber",
+      "javascript-memoization",
+      "fibonacciCache"
+    ]
+  },
+  {
+    "snippet": "articles/s/code-anatomy-performant-python",
+    "issues": [
+      "make_set",
+      "timeit",
+      "symmetric_difference"
+    ]
+  },
+  {
+    "snippet": "articles/s/console-log-cheatsheet",
+    "issues": [
+      "VM207",
+      "VM228",
+      "groupCollapsed",
+      "Hellooooo",
+      "groupEnd",
+      "countReset",
+      "timeLog",
+      "cyour",
+      "cawesome",
+      "1e90ff"
+    ]
+  },
+  {
+    "snippet": "articles/s/cookies-local-storage-session",
+    "issues": [
+      "Blockable",
+      "10MB"
+    ]
+  },
+  {
+    "snippet": "articles/s/css-centering",
+    "issues": [
+      "flexbox-centering"
+    ]
+  },
+  {
+    "snippet": "articles/s/css-easing-variables",
+    "issues": [
+      "bezier-curve",
+      "cubic-bezier"
+    ]
+  },
+  {
+    "snippet": "articles/s/css-nested-border-radius",
+    "issues": [
+      "innerRadius",
+      "outerRadius"
+    ]
+  },
+  {
+    "snippet": "articles/s/css-select-any-link",
+    "issues": [
+      "0444f6"
+    ]
+  },
+  {
+    "snippet": "articles/s/css-units-cheatsheet",
+    "issues": [
+      "vmin",
+      "1vmin",
+      "vmax",
+      "54cm"
+    ]
+  },
+  {
+    "snippet": "articles/s/css-variables",
+    "issues": [
+      "btn-danger",
+      "dd4a68",
+      "inlined"
+    ]
+  },
+  {
+    "snippet": "articles/s/custom-file-download-names",
+    "issues": [
+      "June-2020"
+    ]
+  },
+  {
+    "snippet": "articles/s/detect-caps-lock-is-on",
+    "issues": [
+      "KeyboardEvent",
+      "getModifierState",
+      "CapsLock"
+    ]
+  },
+  {
+    "snippet": "articles/s/dns-record-basics",
+    "issues": [
+      "IPv4",
+      "AAAA",
+      "IPv6",
+      "CNAME",
+      "subdomain",
+      "ANAME",
+      "hostname",
+      "emails"
+    ]
+  },
+  {
+    "snippet": "articles/s/escaping-tutorial-hell",
+    "issues": [
+      "curated"
+    ]
+  },
+  {
+    "snippet": "articles/s/flexbox-cheatsheet",
+    "issues": [
+      "flexbox-diagram",
+      "unitless"
+    ]
+  },
+  {
+    "snippet": "articles/s/git-aliases",
+    "issues": [
+      "edit-config",
+      "editorconfig",
+      "fush"
+    ]
+  },
+  {
+    "snippet": "articles/s/git-commit-different-date",
+    "issues": [
+      "GIT_AUTHOR_DATE",
+      "GIT_COMMITTER_DATE",
+      "2020-05-18"
+    ]
+  },
+  {
+    "snippet": "articles/s/github-co-authors",
+    "issues": [
+      "shellsession",
+      "GitHub-provided"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-array-comparison",
+    "issues": [
+      "strObj",
+      "equalsIgnoreOrder",
+      "aCount",
+      "bCount",
+      "haveSameContents"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-arrow-function-event-listeners",
+    "issues": [
+      "toggleElements"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-arrow-functions",
+    "issues": [
+      "classMethod"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-arrow-regular-function-differences",
+    "issues": [
+      "logThis",
+      "logThisArrow",
+      "tc39",
+      "logThisX",
+      "logThisXArrow",
+      "sumArrow",
+      "sumRest"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-async-array-loops",
+    "issues": [
+      "asyncUppercase",
+      "uppercaseItem"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-await-timeout",
+    "issues": [
+      "awaitTimeout",
+      "wrapPromise",
+      "timeout2"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-boolean-function",
+    "issues": [
+      "hasValidValue",
+      "nonEmptyValues"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-boolean-trap",
+    "issues": [
+      "setInvalid",
+      "isAdministrator"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-callbacks",
+    "issues": [
+      "fileData",
+      "importantFiles",
+      "importanFiles",
+      "unlinkSync"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-closures",
+    "issues": [
+      "filteringFn"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-date-comparison",
+    "issues": [
+      "toUTCString"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-deep-freeze-object",
+    "issues": [
+      "myArr"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-destructuring-assignment",
+    "issues": [
+      "restData"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-empty-array",
+    "issues": [
+      "downsides"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-encodeuri-encodeuricomponent",
+    "issues": [
+      "partOfURL",
+      "speci",
+      "fullURL",
+      "23with",
+      "2Cspeci",
+      "22characters",
+      "2Fmy-website",
+      "2Fmy-page",
+      "3Fquery",
+      "26user",
+      "encodeURI",
+      "22this",
+      "25thing"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-enum",
+    "issues": [
+      "daysEnum"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-equality",
+    "issues": [
+      "undef"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-event-bubbling-capturing-delegation",
+    "issues": [
+      "btn-container"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-evil-closures",
+    "issues": [
+      "javascript-closures",
+      "randomNumber",
+      "themself"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-for-loop-early-break",
+    "issues": [
+      "javascript-async-array-loops",
+      "smallArray",
+      "largeArray",
+      "areEqual"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-function-call-apply-bind",
+    "issues": [
+      "printThisAndData",
+      "printObjAndData",
+      "printObjTwoAndData"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-higher-order-functions",
+    "issues": [
+      "isEven",
+      "evenValues",
+      "evenSum"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-iife",
+    "issues": [
+      "IIFE",
+      "logMessage",
+      "IIFEs",
+      "javascript-arrow-functions",
+      "transpilers"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-iterable-to-array",
+    "issues": [
+      "Zelda",
+      "nodeArray",
+      "DOCTYPE",
+      "nodeListToArray"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-iterators",
+    "issues": [
+      "firstItem",
+      "findById",
+      "myList",
+      "SpecialList",
+      "ipsum",
+      "amet",
+      "adipiscing",
+      "elit"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-listen-once",
+    "issues": [
+      "my-btn",
+      "listenOnce"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-make-iterable",
+    "issues": [
+      "IterableNumber"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-memoization",
+    "issues": [
+      "firstNonEmptyItem",
+      "firstNonEmptyItemMemo",
+      "firstNonEmpty",
+      "thisArg",
+      "argsList",
+      "memoizedFibonacci"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-merge-arrays",
+    "issues": [
+      "alsoMerged",
+      "jsben",
+      "9txyg",
+      "spreadAb",
+      "spreadAc",
+      "concatAb"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-modify-url-without-reload",
+    "issues": [
+      "History_API",
+      "pushState",
+      "replaceState",
+      "page_a",
+      "nextURL",
+      "page_b",
+      "nextTitle",
+      "nextState",
+      "additionalInformation"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-module-cheatsheet",
+    "issues": [
+      "envType",
+      "authKey"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-naming-conventions",
+    "issues": [
+      "UPPER_SNAKE_CASE",
+      "PascalCase"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-nullish-coalescing-optional-chaining",
+    "issues": [
+      "ES2020",
+      "Optional_chaining",
+      "getDataFromMyAPI",
+      "userType",
+      "showNotifications",
+      "Nullish_coalescing_operator",
+      "non-nullish",
+      "falsey",
+      "getServerConfig",
+      "wrongkeepAlive",
+      "keepAlive",
+      "mdn-javascript_operators_optional_chaining",
+      "mdn-javascript_operators_nullish_coalescing"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-numeric-separator",
+    "issues": [
+      "msInOneYear",
+      "31_536_000_000",
+      "42_00"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-object-array-proxy",
+    "issues": [
+      "toKeyedArray",
+      "findKey",
+      "keyOf",
+      "lastKeyOf",
+      "methodKeys"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-object-is-triple-equals",
+    "issues": [
+      "javascript-equality"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-pass-by-reference-or-pass-by-value",
+    "issues": [
+      "otherObj"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-prevent-string-being-escaped",
+    "issues": [
+      "unescapedPath"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-primitive-instanceof",
+    "issues": [
+      "typechecking",
+      "typecheck",
+      "hasInstance",
+      "PrimitiveNumber",
+      "PrimitiveString",
+      "PrimitiveBoolean",
+      "PrimitiveSymbol",
+      "PrimitiveNull",
+      "PrimitiveUndefined"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-promise-then-catch",
+    "issues": [
+      "myPromise"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-pure-functions",
+    "issues": [
+      "addRandom",
+      "pushConcat"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-query-selector-shorthand",
+    "issues": [
+      "shorthands",
+      "mainContent",
+      "externalLinks"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-random-value-pure-functions",
+    "issues": [
+      "javascript-pure-functions",
+      "getNumber"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-range-generator",
+    "issues": [
+      "generateRange",
+      "gen5",
+      "iterableXx",
+      "iterableX"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-remove-object-property",
+    "issues": [
+      "newPet"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-return-constructor",
+    "issues": [
+      "SimpleClass",
+      "VerboseClass",
+      "PrimClass",
+      "PrimitiveClass"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-shallow-deep-clone",
+    "issues": [
+      "objCopy",
+      "otherClone",
+      "deserialize",
+      "deepClone",
+      "shallowClone"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-singleton-proxy",
+    "issues": [
+      "singletonify",
+      "argumentsList",
+      "printMsg",
+      "MySingletonClass",
+      "myObj2"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-sleep",
+    "issues": [
+      "sleepSync"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-spread-rest-syntax",
+    "issues": [
+      "hi_123",
+      "hey_456"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-store-dom-items",
+    "issues": [
+      "myElement"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-switch-object",
+    "issues": [
+      "logFruit",
+      "knownFruit",
+      "unknownFruit",
+      "switchFn",
+      "lookupObject",
+      "defaultCase",
+      "fruitSwitch"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-target-blank",
+    "issues": [
+      "tabnabbing",
+      "externalresource",
+      "noopener",
+      "noreferrer"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-ternary-operator",
+    "issues": [
+      "someCondition",
+      "conditionalX",
+      "ItemListTitle"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-truthy-falsy-values",
+    "issues": [
+      "BigInt"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-use-strict",
+    "issues": [
+      "myVariable",
+      "undeletable",
+      "0-prefixed",
+      "defineProperty",
+      "obj1",
+      "callee",
+      "non-deletable"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-value-as-number",
+    "issues": [
+      "valueAsNumber",
+      "quantityInput",
+      "valueAsDate"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-var-let-const",
+    "issues": [
+      "scopeExample",
+      "javascript-variable-scope",
+      "hoistingExample",
+      "javascript-variable-hoisting",
+      "var1",
+      "var2",
+      "let1",
+      "let2",
+      "javascript-use-strict"
+    ]
+  },
+  {
+    "snippet": "articles/s/javascript-void-links",
+    "issues": [
+      "preventDefault"
+    ]
+  },
+  {
+    "snippet": "articles/s/jest-mock-global-methods",
+    "issues": [
+      "spyOn",
+      "mockReturnValue",
+      "mockFn",
+      "mockImplementation"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-abort-fetch",
+    "issues": [
+      "useFetch"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-append-elements-to-array",
+    "issues": [
+      "arr3"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-array-min-max",
+    "issues": [
+      "minBy",
+      "maxBy"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-callbacks",
+    "issues": [
+      "printDoublePlusOne"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-compare-string-case-accent-insensitive",
+    "issues": [
+      "svCollator"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-create-element",
+    "issues": [
+      "newElement",
+      "attrs",
+      "attr"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-data-structures-binary-search-tree",
+    "issues": [
+      "orderd",
+      "BinarySearchTreeNode",
+      "BinarySearchTree",
+      "isRoot",
+      "isLeftChild",
+      "hasBothChildren",
+      "rightmostLeft"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-data-structures-binary-tree",
+    "issues": [
+      "BinaryTreeNode",
+      "BinaryTree",
+      "canInsertLeft",
+      "canInsertRight"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-data-structures-doubly-linked-list",
+    "issues": [
+      "doulby",
+      "DoublyLinkedList"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-data-structures-graph",
+    "issues": [
+      "grpah",
+      "addNode",
+      "addEdge",
+      "removeNode",
+      "removeEdge",
+      "findNode",
+      "hasEdge",
+      "setEdgeWeight",
+      "getEdgeWeight",
+      "indegree",
+      "outdegree"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-data-structures-tree",
+    "issues": [
+      "TreeNode"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-immutable-object-proxy",
+    "issues": [
+      "immutableTerm",
+      "immutableProperty"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-map-vs-object",
+    "issues": [
+      "peopleIndex",
+      "peopleIndexMap",
+      "objEntries",
+      "mapEntries"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-native-data-structures",
+    "issues": [
+      "strs"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-object-freeze-vs-seal",
+    "issues": [
+      "jsmith"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-remove-array-duplicates",
+    "issues": [
+      "uniqueElementsBy"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-remove-element-from-array",
+    "issues": [
+      "preferrable"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-remove-trailing-zeros",
+    "issues": [
+      "toFixedWithoutZeros"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-replace-all-occurences-of-string",
+    "issues": [
+      "replaceAll",
+      "Hellx",
+      "Wxrld",
+      "escapeRegExp",
+      "subStr",
+      "newSubStr"
+    ]
+  },
+  {
+    "snippet": "articles/s/js-spread-operator-tricks",
+    "issues": [
+      "arr1"
+    ]
+  },
+  {
+    "snippet": "articles/s/lazy-loading-images",
+    "issues": [
+      "webpage"
+    ]
+  },
+  {
+    "snippet": "articles/s/nodejs-chrome-debugging",
+    "issues": [
+      "screenshot",
+      "DevTools"
+    ]
+  },
+  {
+    "snippet": "articles/s/nodejs-static-file-server",
+    "issues": [
+      "createServer",
+      "readFile",
+      "writeHead",
+      "directoryName",
+      "requestUrl",
+      "isPathUnderRoot",
+      "startsWith",
+      "extname",
+      "isTypeSupported",
+      "accessSync",
+      "F_OK",
+      "jpeg",
+      "supportedExtension"
+    ]
+  },
+  {
+    "snippet": "articles/s/password-autocomplete-suggestion",
+    "issues": [
+      "signup"
+    ]
+  },
+  {
+    "snippet": "articles/s/perfect-css-transition-duration",
+    "issues": [
+      "Doherty"
+    ]
+  },
+  {
+    "snippet": "articles/s/prefetching-resources",
+    "issues": [
+      "prefetch",
+      "cool_page",
+      "webfonts",
+      "preload",
+      "important_page",
+      "preloading"
+    ]
+  },
+  {
+    "snippet": "articles/s/python-bare-except",
+    "issues": [
+      "KeyboardInterrupt",
+      "SystemExit"
+    ]
+  },
+  {
+    "snippet": "articles/s/python-dict-getkey-vs-dictkey",
+    "issues": [
+      "KeyError"
+    ]
+  },
+  {
+    "snippet": "articles/s/python-fstrings-str-format",
+    "issues": [
+      "lexical_analysis",
+      "20analysis",
+      "20format"
+    ]
+  },
+  {
+    "snippet": "articles/s/python-lowercase",
+    "issues": [
+      "strasse",
+      "casefold",
+      "casefolding",
+      "Unicode9",
+      "ch03"
+    ]
+  },
+  {
+    "snippet": "articles/s/python-named-tuples",
+    "issues": [
+      "namedtuple"
+    ]
+  },
+  {
+    "snippet": "articles/s/python-slice-notation",
+    "issues": [
+      "nums_clone",
+      "stop_after"
+    ]
+  },
+  {
+    "snippet": "articles/s/python-trim-whitespace",
+    "issues": [
+      "lstrip",
+      "rstrip"
+    ]
+  },
+  {
+    "snippet": "articles/s/react-conditional-classname",
+    "issues": [
+      "OtherComponent"
+    ]
+  },
+  {
+    "snippet": "articles/s/react-proptypes-objectof-vs-shape",
+    "issues": [
+      "validators",
+      "objectOf",
+      "myProp",
+      "ducklord",
+      "mrquacks"
+    ]
+  },
+  {
+    "snippet": "articles/s/react-redux-readable-reducers",
+    "issues": [
+      "generateID",
+      "setName",
+      "addProperty",
+      "propertyName",
+      "propertyValue",
+      "removeProperty",
+      "congitive",
+      "hardcoded",
+      "ACTION_TYPES",
+      "CREATE_ID",
+      "SET_NAME",
+      "ADD_PROPERTY",
+      "REMOVE_PROPERTY",
+      "Strucure",
+      "propertyKey"
+    ]
+  },
+  {
+    "snippet": "articles/s/react-rendering-basics",
+    "issues": [
+      "FunctionComponent",
+      "setState",
+      "forceUpdate",
+      "diffing"
+    ]
+  },
+  {
+    "snippet": "articles/s/react-rendering-optimization",
+    "issues": [
+      "shouldComponentUpdate",
+      "render_",
+      "profiling_"
+    ]
+  },
+  {
+    "snippet": "articles/s/react-rendering-state",
+    "issues": [
+      "useContext",
+      "mapStateToProps",
+      "useSelector"
+    ]
+  },
+  {
+    "snippet": "articles/s/react-use-effect-primitive-dependencies",
+    "issues": [
+      "javascript-pass-by-reference-or-pass-by-value",
+      "CartItem"
+    ]
+  },
+  {
+    "snippet": "articles/s/react-use-interval-explained",
+    "issues": [
+      "workarounds",
+      "savedCallback",
+      "useInterval"
+    ]
+  },
+  {
+    "snippet": "articles/s/react-use-state-with-label",
+    "issues": [
+      "useStateWithLabel",
+      "StateWithLabel"
+    ]
+  },
+  {
+    "snippet": "articles/s/regexp-cheatsheet",
+    "issues": [
+      "cheatsheet",
+      "6-javascript-regexp-tricks"
+    ]
+  },
+  {
+    "snippet": "articles/s/responsive-favicon-dark-mode",
+    "issues": [
+      "favicons",
+      "favicon",
+      "feathericons",
+      "xmlns",
+      "viewBox",
+      "stroke-linecap",
+      "stroke-linejoin",
+      "6v14a2",
+      "2h14a2",
+      "2-2V6l-3-4z",
+      "10a4"
+    ]
+  },
+  {
+    "snippet": "articles/s/reversed-list",
+    "issues": [
+      "3-item"
+    ]
+  },
+  {
+    "snippet": "articles/s/setup-python3-pip3-as-default",
+    "issues": [
+      "python3",
+      "pip3",
+      "zshrc",
+      "bashrc"
+    ]
+  },
+  {
+    "snippet": "articles/s/testing-async-react-components",
+    "issues": [
+      "react-dnd",
+      "useDrag",
+      "isDragging",
+      "fireEvent",
+      "renderDndConnected",
+      "test_utils",
+      "toEqual",
+      "dragStart",
+      "waitFor",
+      "waitForDomChange",
+      "jsdom-fourteen"
+    ]
+  },
+  {
+    "snippet": "articles/s/testing-react-portals",
+    "issues": [
+      "portalized",
+      "beforeAll",
+      "afterEach",
+      "mockClear",
+      "toJSON",
+      "toMatchSnapshot"
+    ]
+  },
+  {
+    "snippet": "articles/s/testing-redux-connected-components",
+    "issues": [
+      "renderConnected",
+      "createStore",
+      "reducerInitialState",
+      "myReduxStore",
+      "renderOptions",
+      "SomeComponent",
+      "getByText",
+      "toBeInTheDocument"
+    ]
+  },
+  {
+    "snippet": "articles/s/testing-stateful-ui-components",
+    "issues": [
+      "refactored",
+      "StatefulComponent",
+      "hasClass"
+    ]
+  },
+  {
+    "snippet": "react/s/accordion",
+    "issues": [
+      "AccordionItem",
+      "handleClick",
+      "changeItem",
+      "onItemClick"
+    ]
+  },
+  {
+    "snippet": "react/s/alert",
+    "issues": [
+      "isShown",
+      "isLeaving",
+      "timeoutId",
+      "closeAlert"
+    ]
+  },
+  {
+    "snippet": "react/s/carousel",
+    "issues": [
+      "cloneElement"
+    ]
+  },
+  {
+    "snippet": "react/s/data-list",
+    "issues": [
+      "isOrdered"
+    ]
+  },
+  {
+    "snippet": "react/s/file-drop",
+    "issues": [
+      "dropRef",
+      "dragCounter",
+      "handleDrag",
+      "handleDragIn",
+      "handleDragOut",
+      "handleDrop",
+      "onDrop"
+    ]
+  },
+  {
+    "snippet": "react/s/limited-word-textarea",
+    "issues": [
+      "wordCount"
+    ]
+  },
+  {
+    "snippet": "react/s/mailto",
+    "issues": [
+      "mailto"
+    ]
+  },
+  {
+    "snippet": "react/s/mapped-table",
+    "issues": [
+      "filteredData",
+      "propertyNames"
+    ]
+  },
+  {
+    "snippet": "react/s/modal",
+    "issues": [
+      "keydownHandler",
+      "onClose",
+      "isVisible"
+    ]
+  },
+  {
+    "snippet": "react/s/password-revealer",
+    "issues": [
+      "setShown"
+    ]
+  },
+  {
+    "snippet": "react/s/ripple-button",
+    "issues": [
+      "coords",
+      "isRippling"
+    ]
+  },
+  {
+    "snippet": "react/s/select",
+    "issues": [
+      "selectedValue",
+      "2-element"
+    ]
+  },
+  {
+    "snippet": "react/s/star-rating",
+    "issues": [
+      "StarRating",
+      "hoverOver",
+      "setRating"
+    ]
+  },
+  {
+    "snippet": "react/s/tabs",
+    "issues": [
+      "TabItem",
+      "changeTab",
+      "onTabClick"
+    ]
+  },
+  {
+    "snippet": "react/s/tag-input",
+    "issues": [
+      "TagInput",
+      "addTagData",
+      "setTagData",
+      "tagData",
+      "removeTagData"
+    ]
+  },
+  {
+    "snippet": "react/s/toggle",
+    "issues": [
+      "isToggledOn",
+      "defaultToggled"
+    ]
+  },
+  {
+    "snippet": "react/s/tooltip",
+    "issues": [
+      "tooltip",
+      "onMouseEnter"
+    ]
+  },
+  {
+    "snippet": "react/s/tree-view",
+    "issues": [
+      "isToggled",
+      "isParentToggled"
+    ]
+  },
+  {
+    "snippet": "react/s/use-click-inside",
+    "issues": [
+      "useClickInside"
+    ]
+  },
+  {
+    "snippet": "react/s/use-click-outside",
+    "issues": [
+      "useClickOutside"
+    ]
+  },
+  {
+    "snippet": "react/s/use-default",
+    "issues": [
+      "defaultState"
+    ]
+  },
+  {
+    "snippet": "react/s/use-delayed-state",
+    "issues": [
+      "updateState"
+    ]
+  },
+  {
+    "snippet": "react/s/use-effect-once",
+    "issues": [
+      "hasRunOnce"
+    ]
+  },
+  {
+    "snippet": "react/s/use-event-listener",
+    "issues": [
+      "savedHandler"
+    ]
+  },
+  {
+    "snippet": "react/s/use-hash",
+    "issues": [
+      "hashchange"
+    ]
+  },
+  {
+    "snippet": "react/s/use-hover",
+    "issues": [
+      "mouseover",
+      "mouseout",
+      "callbackRef"
+    ]
+  },
+  {
+    "snippet": "react/s/use-intersection-observer",
+    "issues": [
+      "IntersectionObserver",
+      "isIntersecting",
+      "unobserve"
+    ]
+  },
+  {
+    "snippet": "react/s/use-isomporphic-effect",
+    "issues": [
+      "Eesolves"
+    ]
+  },
+  {
+    "snippet": "react/s/use-media-query",
+    "issues": [
+      "whenFalse",
+      "whenTrue"
+    ]
+  },
+  {
+    "snippet": "react/s/use-navigator-on-line",
+    "issues": [
+      "getOnLineStatus"
+    ]
+  },
+  {
+    "snippet": "react/s/use-persisted-state",
+    "issues": [
+      "nameRef"
+    ]
+  },
+  {
+    "snippet": "react/s/use-portal",
+    "issues": [
+      "varible",
+      "unmountComponentAtNode"
+    ]
+  },
+  {
+    "snippet": "react/s/use-request-animation-frame",
+    "issues": [
+      "requestRef",
+      "previousTimeRef",
+      "cancelAnimationFrame"
+    ]
+  },
+  {
+    "snippet": "react/s/use-ssr",
+    "issues": [
+      "inBrowser"
+    ]
+  },
+  {
+    "snippet": "react/s/use-unload",
+    "issues": [
+      "beforeunload"
+    ]
+  },
+  {
+    "snippet": "python/s/capitalize",
+    "issues": [
+      "lower_rest"
+    ]
+  },
+  {
+    "snippet": "python/s/decapitalize",
+    "issues": [
+      "upper_rest"
+    ]
+  },
+  {
+    "snippet": "python/s/deep-flatten",
+    "issues": [
+      "deep_flatten"
+    ]
+  },
+  {
+    "snippet": "python/s/find-parity-outliers",
+    "issues": [
+      "most_common"
+    ]
+  },
+  {
+    "snippet": "python/s/from-iso-date",
+    "issues": [
+      "fromisoformat"
+    ]
+  },
+  {
+    "snippet": "python/s/get",
+    "issues": [
+      "iteratee"
+    ]
+  },
+  {
+    "snippet": "python/s/is-anagram",
+    "issues": [
+      "isalnum"
+    ]
+  },
+  {
+    "snippet": "python/s/merge",
+    "issues": [
+      "max_length",
+      "fill_value",
+      "zip_longest"
+    ]
+  },
+  {
+    "snippet": "python/s/pad",
+    "issues": [
+      "ljust",
+      "rjust"
+    ]
+  },
+  {
+    "snippet": "python/s/pad-number",
+    "issues": [
+      "zfill"
+    ]
+  },
+  {
+    "snippet": "python/s/powerset",
+    "issues": [
+      "from_iterable"
+    ]
+  },
+  {
+    "snippet": "python/s/reverse-number",
+    "issues": [
+      "copysign"
+    ]
+  },
+  {
+    "snippet": "python/s/rgb-to-hex",
+    "issues": [
+      "placeholders"
+    ]
+  },
+  {
+    "snippet": "python/s/split-lines",
+    "issues": [
+      "splitlines"
+    ]
+  },
+  {
+    "snippet": "python/s/to-iso-date",
+    "issues": [
+      "isoformat"
+    ]
+  },
+  {
+    "snippet": "python/s/to-roman-numeral",
+    "issues": [
+      "divmod"
+    ]
+  },
+  {
+    "snippet": "python/s/unfold",
+    "issues": [
+      "fn_generator"
+    ]
+  },
+  {
+    "snippet": "python/s/when",
+    "issues": [
+      "when_true"
+    ]
+  },
+  {
+    "snippet": "python/s/words",
+    "issues": [
+      "findall"
+    ]
+  },
+  {
+    "snippet": "js/s/add-minutes-to-date",
+    "issues": [
+      "setTime"
+    ]
+  },
+  {
+    "snippet": "js/s/bottom-visible",
+    "issues": [
+      "clientHeight"
+    ]
+  },
+  {
+    "snippet": "js/s/caesar-cipher",
+    "issues": [
+      "charCodeAt",
+      "fromCharCode"
+    ]
+  },
+  {
+    "snippet": "js/s/capitalize",
+    "issues": [
+      "lowerRest"
+    ]
+  },
+  {
+    "snippet": "js/s/converge",
+    "issues": [
+      "converger"
+    ]
+  },
+  {
+    "snippet": "js/s/copy-to-clipboard",
+    "issues": [
+      "getRangeAt",
+      "addRange"
+    ]
+  },
+  {
+    "snippet": "js/s/count-week-days-between",
+    "issues": [
+      "endDate"
+    ]
+  },
+  {
+    "snippet": "js/s/create-dir-if-not-exists",
+    "issues": [
+      "existsSync",
+      "mkdirSync"
+    ]
+  },
+  {
+    "snippet": "js/s/create-element",
+    "issues": [
+      "firstElementChild"
+    ]
+  },
+  {
+    "snippet": "js/s/create-event-hub",
+    "issues": [
+      "93subscribe_pattern"
+    ]
+  },
+  {
+    "snippet": "js/s/csv-to-array",
+    "issues": [
+      "omitFirstRow"
+    ]
+  },
+  {
+    "snippet": "js/s/day-of-year",
+    "issues": [
+      "1-366"
+    ]
+  },
+  {
+    "snippet": "js/s/decapitalize",
+    "issues": [
+      "upperRest"
+    ]
+  },
+  {
+    "snippet": "js/s/detect-device-type",
+    "issues": [
+      "userAgent"
+    ]
+  },
+  {
+    "snippet": "js/s/detect-language",
+    "issues": [
+      "defaultLang"
+    ]
+  },
+  {
+    "snippet": "js/s/element-is-focused",
+    "issues": [
+      "activeElement"
+    ]
+  },
+  {
+    "snippet": "js/s/fullscreen",
+    "issues": [
+      "exitFullscreen"
+    ]
+  },
+  {
+    "snippet": "js/s/functions",
+    "issues": [
+      "getPrototypeOf"
+    ]
+  },
+  {
+    "snippet": "js/s/get-colon-time-from-date",
+    "issues": [
+      "toTimeString"
+    ]
+  },
+  {
+    "snippet": "js/s/get-elements-bigger-than-viewport",
+    "issues": [
+      "offsetWidth"
+    ]
+  },
+  {
+    "snippet": "js/s/get-images",
+    "issues": [
+      "getElementsByTagName",
+      "includeDuplicates"
+    ]
+  },
+  {
+    "snippet": "js/s/get-meridiem-suffix-of-integer",
+    "issues": [
+      "12-hour"
+    ]
+  },
+  {
+    "snippet": "js/s/get-scroll-position",
+    "issues": [
+      "pageXOffset",
+      "pageYOffset",
+      "scrollLeft"
+    ]
+  },
+  {
+    "snippet": "js/s/get-selected-text",
+    "issues": [
+      "getSelection"
+    ]
+  },
+  {
+    "snippet": "js/s/get-vertical-offset",
+    "issues": [
+      "offsetParent",
+      "offsetTop"
+    ]
+  },
+  {
+    "snippet": "js/s/hash-browser",
+    "issues": [
+      "SubtleCrypto",
+      "TextEncoder",
+      "DataView",
+      "getUint32",
+      "ArrayBuffer"
+    ]
+  },
+  {
+    "snippet": "js/s/hash-node",
+    "issues": [
+      "createHash"
+    ]
+  },
+  {
+    "snippet": "js/s/heapsort",
+    "issues": [
+      "heapsort",
+      "heapify"
+    ]
+  },
+  {
+    "snippet": "js/s/hex-to-rgb",
+    "issues": [
+      "rgba"
+    ]
+  },
+  {
+    "snippet": "js/s/hsb-to-rgb",
+    "issues": [
+      "HSV_to_RGB"
+    ]
+  },
+  {
+    "snippet": "js/s/hsl-to-rgb",
+    "issues": [
+      "HSL_to_RGB"
+    ]
+  },
+  {
+    "snippet": "js/s/initialize-nd-array",
+    "issues": [
+      "initializeNDArray"
+    ]
+  },
+  {
+    "snippet": "js/s/insert-before",
+    "issues": [
+      "beforebegin"
+    ]
+  },
+  {
+    "snippet": "js/s/is-async-function",
+    "issues": [
+      "AsyncFunction"
+    ]
+  },
+  {
+    "snippet": "js/s/is-between-dates",
+    "issues": [
+      "dateStart",
+      "dateEnd"
+    ]
+  },
+  {
+    "snippet": "js/s/is-browser-tab-focused",
+    "issues": [
+      "Page_Visibility_API"
+    ]
+  },
+  {
+    "snippet": "js/s/is-generator-function",
+    "issues": [
+      "GeneratorFunction"
+    ]
+  },
+  {
+    "snippet": "js/s/is-leap-year",
+    "issues": [
+      "29th"
+    ]
+  },
+  {
+    "snippet": "js/s/is-power-of-ten",
+    "issues": [
+      "log10"
+    ]
+  },
+  {
+    "snippet": "js/s/is-travis-ci",
+    "issues": [
+      "travis-ci"
+    ]
+  },
+  {
+    "snippet": "js/s/json-to-file",
+    "issues": [
+      "writeFileSync"
+    ]
+  },
+  {
+    "snippet": "js/s/k-means",
+    "issues": [
+      "K-means_clustering"
+    ]
+  },
+  {
+    "snippet": "js/s/k-nearest-neighbors",
+    "issues": [
+      "K-nearest_neighbors_algorithm"
+    ]
+  },
+  {
+    "snippet": "js/s/levenshtein-distance",
+    "issues": [
+      "Levenshtein",
+      "Levenshtein_distance"
+    ]
+  },
+  {
+    "snippet": "js/s/luhn-check",
+    "issues": [
+      "Luhn",
+      "Luhn_algorithm",
+      "IMEI"
+    ]
+  },
+  {
+    "snippet": "js/s/map-consecutive",
+    "issues": [
+      "consencutive"
+    ]
+  },
+  {
+    "snippet": "js/s/map-string",
+    "issues": [
+      "mapString"
+    ]
+  },
+  {
+    "snippet": "js/s/merge-sort",
+    "issues": [
+      "mergeSort"
+    ]
+  },
+  {
+    "snippet": "js/s/nest",
+    "issues": [
+      "parent_id"
+    ]
+  },
+  {
+    "snippet": "js/s/object-to-query-string",
+    "issues": [
+      "queryParameters",
+      "queryString"
+    ]
+  },
+  {
+    "snippet": "js/s/observe-mutations",
+    "issues": [
+      "MutationObserverInit"
+    ]
+  },
+  {
+    "snippet": "js/s/on-user-input-change",
+    "issues": [
+      "touchstart"
+    ]
+  },
+  {
+    "snippet": "js/s/parse-cookie",
+    "issues": [
+      "decodeURIComponent"
+    ]
+  },
+  {
+    "snippet": "js/s/prefix",
+    "issues": [
+      "charAt"
+    ]
+  },
+  {
+    "snippet": "js/s/pretty-bytes",
+    "issues": [
+      "addSpace"
+    ]
+  },
+  {
+    "snippet": "js/s/primes",
+    "issues": [
+      "Eratosthenes"
+    ]
+  },
+  {
+    "snippet": "js/s/promisify",
+    "issues": [
+      "promisify",
+      "util_util_promisify_original"
+    ]
+  },
+  {
+    "snippet": "js/s/quick-sort",
+    "issues": [
+      "greather"
+    ]
+  },
+  {
+    "snippet": "js/s/random-hex-color-code",
+    "issues": [
+      "24-bit",
+      "4bits"
+    ]
+  },
+  {
+    "snippet": "js/s/record-animation-frames",
+    "issues": [
+      "autoStart"
+    ]
+  },
+  {
+    "snippet": "js/s/rename-keys",
+    "issues": [
+      "keysMap"
+    ]
+  },
+  {
+    "snippet": "js/s/render-element",
+    "issues": [
+      "createTextNode"
+    ]
+  },
+  {
+    "snippet": "js/s/replace-last",
+    "issues": [
+      "RegeExp"
+    ]
+  },
+  {
+    "snippet": "js/s/rgb-to-hsb",
+    "issues": [
+      "From_RGB"
+    ]
+  },
+  {
+    "snippet": "js/s/rgb-to-hsl",
+    "issues": [
+      "niwa",
+      "math-behind-colorspace-conversions-rgb-hsl"
+    ]
+  },
+  {
+    "snippet": "js/s/run-async",
+    "issues": [
+      "Web_Workers_API",
+      "Using_web_workers",
+      "onmessage"
+    ]
+  },
+  {
+    "snippet": "js/s/sample-size",
+    "issues": [
+      "30-seconds",
+      "30-seconds-of-code"
+    ]
+  },
+  {
+    "snippet": "js/s/shank",
+    "issues": [
+      "delCount"
+    ]
+  },
+  {
+    "snippet": "js/s/shuffle",
+    "issues": [
+      "Fisher_and_Yates"
+    ]
+  },
+  {
+    "snippet": "js/s/smooth-scroll",
+    "issues": [
+      "scrollIntoView"
+    ]
+  },
+  {
+    "snippet": "js/s/standard-deviation",
+    "issues": [
+      "usePopulation"
+    ]
+  },
+  {
+    "snippet": "js/s/stringify-circular-json",
+    "issues": [
+      "WeakSet"
+    ]
+  },
+  {
+    "snippet": "js/s/supports-touch-events",
+    "issues": [
+      "ontouchstart"
+    ]
+  },
+  {
+    "snippet": "js/s/swap-case",
+    "issues": [
+      "swapCase"
+    ]
+  },
+  {
+    "snippet": "js/s/throttle",
+    "issues": [
+      "inThrottle"
+    ]
+  },
+  {
+    "snippet": "js/s/to-currency",
+    "issues": [
+      "NumberFormat"
+    ]
+  },
+  {
+    "snippet": "js/s/to-iso-string-with-timezone",
+    "issues": [
+      "timezone",
+      "getTimezoneOffset"
+    ]
+  },
+  {
+    "snippet": "js/s/to-pascal-case",
+    "issues": [
+      "lowercasing"
+    ]
+  },
+  {
+    "snippet": "js/s/to-roman-numeral",
+    "issues": [
+      "2-value"
+    ]
+  },
+  {
+    "snippet": "js/s/trigger-event",
+    "issues": [
+      "CustomEvent",
+      "eventType",
+      "dispatchEvent"
+    ]
+  },
+  {
+    "snippet": "js/s/truncate-string-at-whitespace",
+    "issues": [
+      "lastSpace"
+    ]
+  },
+  {
+    "snippet": "js/s/uncurry",
+    "issues": [
+      "Uncurries",
+      "uncurry"
+    ]
+  },
+  {
+    "snippet": "js/s/unescape-html",
+    "issues": [
+      "Unescapes"
+    ]
+  },
+  {
+    "snippet": "js/s/unflatten-object",
+    "issues": [
+      "Unflatten"
+    ]
+  },
+  {
+    "snippet": "js/s/unique-elements-by-right",
+    "issues": [
+      "reduceRight"
+    ]
+  },
+  {
+    "snippet": "js/s/untildify",
+    "issues": [
+      "homedir"
+    ]
+  },
+  {
+    "snippet": "js/s/url-join",
+    "issues": [
+      "regexps"
+    ]
+  },
+  {
+    "snippet": "js/s/uuid-generator-browser",
+    "issues": [
+      "getRandomValues"
+    ]
+  },
+  {
+    "snippet": "js/s/uuid-generator-node",
+    "issues": [
+      "randomBytes",
+      "randomUUID",
+      "cryptorandomuuidoptions"
+    ]
+  },
+  {
+    "snippet": "js/s/validate-number",
+    "issues": [
+      "isFinite"
+    ]
+  },
+  {
+    "snippet": "js/s/vector-angle",
+    "issues": [
+      "acos"
+    ]
+  }
+]

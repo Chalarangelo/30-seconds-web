@@ -42,6 +42,7 @@
     "remark": "^13.0.0",
     "remark-gfm": "^1.0.0",
     "sharp": "^0.30.5",
+    "spell-checker-js": "^1.2.6",
     "twitter": "^1.7.1",
     "unist-util-visit": "^2.0.3",
     "webfonts-generator": "^0.4.0"
